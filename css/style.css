@@ -1,3 +1,19 @@
 .btn-primary {
     background-color: fuchsia;
 }
+
+.navbar-button {
+    border-radius: 50px;
+    width: 170px;
+    height: 40px;
+}
+
+.card__icon {
+    width: 70px;
+    height: 70px;
+}
+
+.card__image {
+    width: 300px;
+    height: 200px;
+}
